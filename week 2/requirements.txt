@@ -1,0 +1,9 @@
+tensorflow>=2.8.0
+opencv-python
+numpy
+pillow
+pyttsx3
+pygame
+scikit-learn
+matplotlib
+seaborn
